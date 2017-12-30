@@ -7,5 +7,5 @@ A set of bash terminal customisations geared toward developers working with linu
 Add the following to your .bashrc
 
 ```bash
-source $HOME/.dotty
+source $HOME/.dotty/SOURCEME.sh
 ```
