@@ -1,0 +1,5 @@
+# project ignores
+bin/*
+
+# utility includes
+!.gitkeep
